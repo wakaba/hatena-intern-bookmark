@@ -1,0 +1,41 @@
+=head1 NAME
+
+hatena-intern-bookmark - Hatena Internship 2010 - Sample program "bookmark.pl"
+
+=head1 FILES
+
+bookmark.pl - Simple bookmarking tool, command-line interface.
+
+db/ - MySQL schema file for the program.
+
+lib/ - Perl modules used by bookmark.pl.
+
+t/ - Test scripts for Perl modules.
+
+=head1 SEE ALSO
+
+Hatena Summer Internship 2010
+<http://www.hatena.ne.jp/company/intern2010/>.
+
+Hatena::Engineering <http://d.hatena.ne.jp/hatenatech/>.
+
+DBIx::MoCo <https://github.com/hatena/DBIx-MoCo>.
+
+Hatena Bookmark <http://b.hatena.ne.jp/>.
+
+=head1 AUTHOR
+
+Wakaba (id:wakabatan) <wakabatan@hatena.ne.jp>.
+
+=head1 ACKNOWLEDGEMENT
+
+id:onishi developed earlier version of this sample program.
+
+=head1 LICENSE
+
+Copyright 2008-2010 Hatena <http://www.hatena.ne.jp/>.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+=cut
